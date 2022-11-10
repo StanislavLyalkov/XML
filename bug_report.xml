@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <ID>1</ID>
+  <Environment>Windows 10 x64 build 19043, Browser:Opera 9.0.4447.83</Environment>
+  <Preconditional>Перейти на сайт https://bilim-oral.gov.kz/ru/новости2.html</Preconditional>
+  <Title>Съехала верстка списка новостей в разделе Новости</Title>
+    <STR>
+      <Step1>Перейти в раздел Новости</Step1>
+    </STR>
+    <Actual_Result>Съехала верстка списка новостей в разделе Новости</Actual_Result>
+    <Expected_Result>Список новостей размещены согласно верстке сайта</Expected_Result>
+  <Severity> Major </Severity>
+  <Priority>Medium</Priority>
+  <Attachments>https://drive.google.com/file/d/1pa60dqPBWr5FyBbnkwKaMxwL8PWqYmcH/view?usp=sharing</Attachments>
+</bug_report>
